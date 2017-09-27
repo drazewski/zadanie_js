@@ -4,9 +4,9 @@ var displayResults;
 /**
 *Sprawdza, która z kolei jest jedyna liczba nieparzysta w ciągu liczb parzystych lub liczba
 *parzysta w ciągu liczb nieparzystych.
-*@param {Array} numbers Ciąg licz oddzielony spacją.
-*@return {Number} Pozycja jedynej liczby parzystej lub nieparzystej
-*@authot Łukasz Drążewski
+*@param {Array} numbers Ciąg liczb oddzielony spacją.
+*@return {Number} Pozycja jedynej liczby parzystej lub nieparzystej.
+*@author Łukasz Drążewski
 */
 
 checkNumber = function(numbers) {
